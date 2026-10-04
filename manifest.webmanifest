@@ -1,0 +1,13 @@
+{
+  "name": "رَصيدي — مساحة أموالك",
+  "short_name": "رَصيدي",
+  "description": "إدارة مصاريفك ودخلك وأهدافك المالية بوضوح.",
+  "lang": "ar-IQ",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f9f7",
+  "theme_color": "#101e19",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
